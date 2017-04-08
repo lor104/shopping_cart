@@ -1,0 +1,2 @@
+class Stuff
+end
